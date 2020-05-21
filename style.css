@@ -1,0 +1,266 @@
+
+#name{
+
+	position:relative; left:720px; top: 10px; /*positioning the bell to the right*/
+	font-size: 40px; /*size of bell*/
+	color: #000000;
+
+}
+
+#logout{
+	font-size: 60px;
+	color: red;
+	position: relative; top: 20px;
+}
+
+
+#header{
+  background:#333333;
+  color:#ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+
+h1{
+	display: inline-block;
+	position: relative; left: 370px;
+
+
+}
+
+#circle{
+	position: relative; left: 370px; top: 40px;
+
+}
+#number{
+	text-align: center;
+	font-size: 150pt;
+	position: relative; top: -310px; left: 12px;
+	color: red;
+}
+
+#date{
+	text-align: center;
+	position: relative; top: -200px;
+	font-size: 40pt;
+	font-weight: bold;
+}
+
+#footer{
+  text-align:center;
+  margin-top:30px;
+  position: relative; top: -100px;
+  height: 50px;
+}
+
+#copyright{
+	margin-top: 50px;
+	font-weight: bold;
+	font-size: 12pt;
+	position: relative; left: -35px; top: -70px; 
+}
+
+#footerLine{
+	position: relative; top: -70px;
+}
+
+#image{
+	position:relative; left: -135px;
+	font-size: 90px; 
+}
+
+#search{
+	position:relative; left: -35px; top: 40px; 
+	font-size: 90px; 
+	color: #000000;
+}
+
+#settings{
+	position:relative; left: 65px; top: 40px; 
+	font-size: 90px; 
+	color: #000000;
+}
+
+#login{
+	position: relative; top: 70px;
+	height: 330px;
+}
+
+#logbutton{
+	position: relative; top: 15px;
+}
+
+#loginfooter{
+	text-align:center;
+  	margin-top:30px;
+  	position: relative; top: 150px;
+  	height: 50px;
+}
+
+hr.someClass {
+  background-color: black;
+  width: 100%;
+  border-top: 1px solid black;
+  position: relative; top: 20px;
+}
+
+#create{
+	width: 100%;
+	position: relative; top: 10px;
+}
+
+#createAccount{
+	height: 480px;
+	position: relative; top: 50px;
+}
+
+/* index 2*/
+#calender{
+	width: 230px;
+	height:230px;
+	font-size: 150pt;
+	position: relative; top: -170px; left: 40px;
+}
+
+#noreserve{
+	text-align: center;
+	font-size: 40pt;
+	font-weight: bold;
+	position: relative; top:-50px;
+}
+
+#footer2{
+	text-align:center;
+  	margin-top:30px;
+  	position: relative; top: -10px;
+  	
+}
+
+/*schedule.html*/
+#name1{
+	position:relative; left:595px; top: 10px; 
+	font-size: 40px; 
+	color: #000000;
+}
+
+#h1{
+	display: inline-block;
+	position: relative; left: 300px;
+}
+
+.visitDate{
+	margin-top: 40px;
+	position: relative; left: 350px;
+	font-size: 20pt;
+}
+
+#next{
+	margin-top: 150px;
+	position: relative; left: 950px;
+}
+#footer3{
+	text-align:center;
+  	margin-top:300px;
+  	position: relative; top: 100px;
+}
+
+/*times.html*/
+#name2{
+	position:relative; left:785px; top: 10px; 
+	font-size: 40px; 
+	color: #000000;
+}
+.left{
+	font-size: 20pt;
+	position: relative; left: 60px; top: 100px;
+
+}
+
+.middle{
+	font-size: 20pt;
+	position: relative; left: 460px; top: -586px;
+
+}
+
+.right{
+	font-size: 20pt;
+	position: relative; left: 860px; top: -1273px;
+}
+
+.submit{
+	position: relative;	left: -467px; top: -100px;
+}
+
+.form{
+	height:800px;
+}
+
+p {
+    white-space: nowrap;
+    text-align: center;
+} 
+
+span{
+	color: #c0c2c0;
+}
+
+/*receipt.html*/
+#name3{
+	position:relative; left:795px; top: 10px; 
+	font-size: 40px; 
+	color: #000000;
+}
+.confirm{
+	position: relative; left: 400px;
+}
+
+#thanks{
+	position: relative; left:300px;
+	margin-bottom: 50px;
+	position: relative; left: 230px;
+}
+
+.bob{
+	font-size: 25pt;
+	position: relative; left: -50px;
+}
+
+.receipt{
+	font-size: 25pt;
+	margin-bottom: 10px;
+	margin-top: 100px;
+	position: relative; left: -50px;
+}
+
+.tnumber{
+	font-size: 25pt;
+	position: relative; left: -50px;
+}
+
+#footer4{
+	text-align:center;
+  	margin-top:250px;
+  	position: relative; top: 50px;
+}
+
+#done{
+	position: relative; left: 490px; top: 150px;
+}
+
+
+/*idk what this is for*/
+.jumbotron{
+    background-color:#2E2D88;
+    color:white;
+}
+/* Adds borders for tabs */
+.tab-content {
+	   border-left: 1px solid #ddd;
+	   border-right: 1px solid #ddd;
+	   border-bottom: 1px solid #ddd;
+	   padding: 10px;
+}
+.nav-tabs {
+	   margin-bottom: 0;
+}
